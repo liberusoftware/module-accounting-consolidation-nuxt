@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-consolidation-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-consolidation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-consolidation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/consolidation.md",
+  "presentationPlan": "projects/accounting/nuxt/consolidation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
